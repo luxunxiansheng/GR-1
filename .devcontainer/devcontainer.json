@@ -1,5 +1,5 @@
 {
-  "name": "DepthPro",
+  "name": "GR-1",
   "build": {
     "context": "..",
     "dockerfile": "Dockerfile",
